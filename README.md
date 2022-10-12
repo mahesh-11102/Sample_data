@@ -1,1 +1,1 @@
-This Repositor contains Images for testing the ML Model
+This Repositor contains Images to test the ML Model
